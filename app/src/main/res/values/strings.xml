@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sqlite Sample</string>
+    <string name="back">Back</string>
+    <string name="add">Save</string>
+    <string name="number">Mumber</string>
+    <string name="name">Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="gender">Gender</string>
+    <string name="gender_hint">M or F</string>
+    <string name="address">Address</string>
+    <string name="update_button">Update</string>
+    <string name="add_profile_button">Add New Profile</string>
+</resources>
